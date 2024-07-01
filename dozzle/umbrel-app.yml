@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: dozzle
+name: Dozzle
+tagline: Dozzle
+icon: https://developer.asustor.com/uploadIcons/0020_117518_1660879946_dozzle_256.png
+category: music
+version: "1.0.0"
+port: 8989
+description: >-
+  Real-time logging and monitoring for Docker in the browser
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/dozzle-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/dozzle-umbrel
+repo: https://github.com/pelinoleg/dozzle-umbrel
+support: https://github.com/pelinoleg/dozzle-umbrel/issues
+
+gallery:
+  - https://repository-images.githubusercontent.com/155297903/cbdcd180-2571-11ea-9a3f-073207ffc1c5
+
+releaseNotes: >-
+  Initial release of Dozzle on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
